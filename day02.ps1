@@ -1,4 +1,4 @@
-# Day 02 Part 1
+# Day 02
 $inFile = '.\data\day02.txt'
 $data = Get-Content $inFile
 $total = 0
